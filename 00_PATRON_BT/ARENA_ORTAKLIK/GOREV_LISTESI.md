@@ -12,7 +12,7 @@
 | 0 | YENİ SOHBET AÇILIŞ TALİMATI (tek metin) | ✅ | 00_PATRON_BT/YENI_SOHBET_ACILIS_TALIMATI.md |
 | 1 | P0 düzeltmesi: Hemen Oyna sonrası tahta görünmüyor → v=154 (canlı depo) | ✅ | push edildi (07414d7) + canlı doğrulandı |
 | 1a | `.env` dosyasını doldur (yalnızca repo kapsamlı token) | 🔄 | 03.08: yeni token iletildi → AI doğrudan push yaptı; iş bitince REVOKE |
-| 1b | Canlı push (stonebreaking.github.io) | ✅ | 03.08: d43eb85 — MÜHÜR-009/010/011 + motor v9.11.0 + 21 görsel |
+| 1b | Canlı push (stonebreaking.github.io) | ✅ | 03.08: 85be0dc — v9.11.1r2 şeffaf-büyük logolar + M-013 ruh çağrısı |
 | 1c | Stüdyo deposuna push (batupia-stonebreaking) | ✅ | 03.08: MÜHÜR-008 belgesi + 21 mühürlü görsel + SEAL_LOG (11) + GUNCELLE.sh |
 | 1d | **P1: Canlı kök siyah ekran** (assets/ silinmişti) | 🔄 | assets/ kurtarılmış mühürlü görsellerle yerelde geri yüklendi (commit 5a96d09); push için token gerekli |
 | 1e | Eksik mühürlü varlıklar (41 taş + realm/scene görselleri) | 🔄 | 21 taş/sahne mühürlendi (M-014/015/016); kalanlar üretimde |
@@ -28,6 +28,8 @@
 | 4a | Metinsiz sinematik açılış (M-009) | ✅ | canlı: STUDIOS → mühür ◆ fazı |
 | 4b | 'Bu daha başlangıç…' sekansı (M-010) | ✅ | B12 → Sonsuzluk Kapısı → sonsuz mod |
 | 4c | IQ testi B3/B6/B9/B12 (M-011) | ✅ | bonus bestIq mühürü |
+| 4d | Ruh geri-dönüş mesajları (M-013 kademe-1) | ✅ | 24/0 test; 4 saat+ dönüşte ruh seslenir + günlük seri |
+| 4e | Logolar şeffaf + büyük (Patron telefon geribildirimi) | ✅ | gerçek şeffaf PNG (oyulmuş), madalyon 400px/86vw, kozmos zeminler |
 | 5 | 100 gerçek oturumla Bölüm 1–3 ölçümü | ⬜ | İnsan sevilebilirlik verisi |
 | 6 | Studio altyapısı: 31 departman + PATRON BT belgeleri (workspace) | ✅ | 31.07.2026 |
 | 7 | Görsel üretimi: 4 ruh karakteri + logo (workspace) | ✅ | 31.07.2026 |
