@@ -17,7 +17,7 @@
 | 1d | **P1: Canlı kök siyah ekran** (assets/ silinmişti) | 🔄 | assets/ kurtarılmış mühürlü görsellerle yerelde geri yüklendi (commit 5a96d09); push için token gerekli |
 | 1e | Eksik mühürlü varlıklar (41 taş + realm/scene görselleri) | ✅ | 04.08: 41/41 taş tek kalıpta tamam (M-018, kalıp v2.3) |
 | 1f | M-018 canlı paket: 4 dizilim deseni + sonsuz TÜM elementler + IQ rampası | ✅ | 04.08: canlı a3f7248 + ayna 6c8d280 — test 85/0 ×3 |
-| 1g | M-019 sahne/logo: 5 ruh v2 (kurt/balina/ayı/tavşan altarları) + logo kalıp v2 + mobil sahne önizlemesi | ✅ | 04.08: canlı a3f7248 — Patron telefonda doğrular (sekme kapat-yeni aç) |
+| 1g | M-019 sahne/logo: 5 ruh v2 (kurt/balina/ayı/tavşan altarları) + logo kalıp v2 + mobil sahne önizlemesi | ✅ | 04.08: canlı a3f7248 + 56b2c97 (intro seal ortalı) — Patron telefonda doğrular (sekme kapat-yeni aç) |
 | 2 | **Kanon disiplini kuralı (BT-2026-0731-A3)** | ✅ | GORSEL_KANON.md + denetim maddesi 13 |
 | 3 | Koleksiyon kartları MÜHÜRLÜ maskotlardan (M-008 aday) | ✅ | 06_GRAFIK/KOLEKSIYON_KARTLARI/ |
 | 4 | Sürüm kayıtları (surum.json → 1.5.4) | 🔄 | canlı depoda güncellenecek |
