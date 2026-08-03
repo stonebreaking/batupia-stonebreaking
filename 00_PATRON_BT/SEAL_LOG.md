@@ -23,6 +23,7 @@
 
 > 🚧 Sırada: M-017 Özel Taşlar (Asa/İnci/Yelpaze/Çekiç v3, metinsiz) — Patron onayı bekliyor.
 > ℹ️ M-009/010/011 (metinsiz açılış, Başlangıç sekansı, IQ testi) M-008 vizyonu kapsamında kodda canlı — canlı depo commit d43eb85.
-> ℹ️ M-013 (ruh geri-dönüş mesajları, kademe-1) aynı kapsamda canlı — commit 85be0dc. Logo revizyonu v9.11.1r2 (Patron 03.08): logolar gerçek şeffaf PNG, madalyon 400px/86vw.
+> ℹ️ M-013 (ruh geri-dönüş mesajları, kademe-1) aynı kapsamda canlı — commit 85be0dc.
+> ℹ️ M-012 (Sonsuz Zihin Haritası, kademe-1) aynı kapsamda canlı — commit 823f510. Logo revizyonu v9.11.1r2 (Patron 03.08): logolar gerçek şeffaf PNG, madalyon 400px/86vw.
 
 > Her yeni mühür eklendiğinde bu tablo güncellenir.

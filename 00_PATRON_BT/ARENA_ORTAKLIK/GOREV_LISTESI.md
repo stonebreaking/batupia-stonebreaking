@@ -30,6 +30,7 @@
 | 4c | IQ testi B3/B6/B9/B12 (M-011) | ✅ | bonus bestIq mühürü |
 | 4d | Ruh geri-dönüş mesajları (M-013 kademe-1) | ✅ | 24/0 test; 4 saat+ dönüşte ruh seslenir + günlük seri |
 | 4e | Logolar şeffaf + büyük (Patron telefon geribildirimi) | ✅ | gerçek şeffaf PNG (oyulmuş), madalyon 400px/86vw, kozmos zeminler |
+| 4f | Sonsuz Zihin Haritası (M-012 kademe-1) | ✅ | 31/0 test; 7 düğüm perk ağacı + zihin taşı ekonomisi canlı |
 | 5 | 100 gerçek oturumla Bölüm 1–3 ölçümü | ⬜ | İnsan sevilebilirlik verisi |
 | 6 | Studio altyapısı: 31 departman + PATRON BT belgeleri (workspace) | ✅ | 31.07.2026 |
 | 7 | Görsel üretimi: 4 ruh karakteri + logo (workspace) | ✅ | 31.07.2026 |
@@ -39,7 +40,7 @@
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
 | 8 | Matematik V2 (hafıza, hız, hata, risk, denge eksenleri) | ⬜ | |
-| 9 | 12. bölüm Zihin Haritası | ⬜ | |
+| 9 | 12. bölüm Zihin Haritası | 🔄 | kademe-1 canlı (M-012); kademe-2: yeni kollar/düğümler | |
 | 10 | QR'lı görsel paylaşım kartı | ⬜ | |
 
 ## 🟢 Düşük Öncelik
