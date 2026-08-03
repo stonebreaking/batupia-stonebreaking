@@ -1,6 +1,6 @@
 {
   "project": "BATUPIA - Stonebreaking Universe",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engine_settings": {
     "total_tiles": 144,
     "matching_type": "pair",
@@ -119,5 +119,24 @@
       "tas_special_cekic.png",
       "tas_special_yelpaze.png  (Patron onayı bekliyor)"
     ]
+  },
+  "m018_v9_12": {
+    "tarih": "04.08.2026",
+    "desenler": [
+      "duvar",
+      "piramit",
+      "halka",
+      "elmas"
+    ],
+    "desen_rotasyon": "(bolum-1)%4 — hikaye modunda tam periyot 4; sonsuzda dalga olcekleme",
+    "bolum_tas_sayilari": {
+      "B1": 42,
+      "B2": 32,
+      "B3": 44,
+      "B4": 36
+    },
+    "rampa": "min(9, 3+bolum) tip havuzu (B1=4, B3=6, B6+=9); B11 karaSet baypas (4)",
+    "sonsuz": "TUM elementler: 4x9=36 + muhur_elite = 37 tip; acilista sessiz ensureMoves garantisi",
+    "kalip": "41 tas seffaf RGBA (beyaz halo/benek temizligi v2.3), 5 tas aile stilinde yeniden uretildi"
   }
 }
