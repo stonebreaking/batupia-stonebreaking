@@ -16,7 +16,7 @@
 | M-015      | 03.08.2026 | Su/Toprak/Hava Varyantları (Damla/Buz/Sis, Rün/Kristal/Kaya v3, Spiral/Şimşek/Bulut) | ✅ Mühürlü | Batuhan + AI   |
 | M-016      | 03.08.2026 | Devam Sahneleri toprak/hava → 4/4 bölge devam sahnesi tamam | ✅ Mühürlü | Batuhan + AI   |
 | M-018      | 04.08.2026 | 41 taş tek kalıp (şeffaf zemin, balon/halo bitti; 5 sorunlu taş aile stilinde yeniden üretildi) + 4 dizilim deseni (duvar/piramit/halka/elmas) + Sonsuz mod TÜM elementler (37 tip) + bölüm IQ rampası (B1=4tip→B6+=9) | ✅ Mühürlü | Batuhan + AI   |
-| M-019      | 04.08.2026 | Logo kalıp v2 (gerçek ortalama, BATUPIA kenar kiri sıfır) + 5 ruh sinematiği v2 (karakter evreniyle bütün: kurt/balina/ayı/tavşan altarları) + char/ruh ortak başlık + mobil parmak-değince sahne önizlemesi | ✅ Mühürlü | Batuhan + AI   |
+| M-019      | 04.08.2026 | Logo kalıp v2 (gerçek ortalama, BATUPIA kenar kiri sıfır) + 5 ruh sinematiği v2 (karakter evreniyle bütün: kurt/balina/ayı/tavşan altarları) + char/ruh ortak başlık + mobil parmak-değince sahne önizlemesi + studio-intro kayık elmas logo kaldırıldı (tek BATUPIA: mühürlü seal, canlı 8fbf83c) | ✅ Mühürlü | Batuhan + AI   |
 
 ---
 
