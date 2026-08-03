@@ -1,6 +1,6 @@
 {
   "project": "BATUPIA - Stonebreaking Universe",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engine_settings": {
     "total_tiles": 144,
     "matching_type": "pair",
@@ -8,37 +8,116 @@
       {
         "name": "KOR",
         "element": "Fire",
-        "variants": ["Alev", "Köz", "Volkan"],
+        "variants": [
+          "Alev",
+          "Köz",
+          "Volkan"
+        ],
         "count_per_variant": 12
       },
       {
         "name": "BAAM",
         "element": "Water",
-        "variants": ["Damla", "Buz", "Sis"],
+        "variants": [
+          "Damla",
+          "Buz",
+          "Sis"
+        ],
         "count_per_variant": 12
       },
       {
         "name": "MAND",
         "element": "Earth",
-        "variants": ["Rün", "Kristal", "Kaya"],
+        "variants": [
+          "Rün",
+          "Kristal",
+          "Kaya"
+        ],
         "count_per_variant": 12
       },
       {
         "name": "ZEPY",
         "element": "Air",
-        "variants": ["Spiral", "Şimşek", "Bulut"],
+        "variants": [
+          "Spiral",
+          "Şimşek",
+          "Bulut"
+        ],
         "count_per_variant": 12
       },
       {
         "name": "SPECIALS",
-        "variants": ["Asa", "İnci", "Çekiç", "Yelpaze"],
+        "variants": [
+          "Asa",
+          "İnci",
+          "Çekiç",
+          "Yelpaze"
+        ],
         "count_per_variant": 4
       },
       {
         "name": "ELITE",
-        "variants": ["Logo", "Kolye", "Amblem"],
+        "variants": [
+          "Logo",
+          "Kolye",
+          "Amblem"
+        ],
         "count_per_variant": 8
+      },
+      {
+        "name": "KARA",
+        "element": "Kara (Bölüm 11)",
+        "variants": [
+          "Ateş",
+          "Su",
+          "Toprak",
+          "Hava"
+        ],
+        "count_per_variant": 1,
+        "note": "M-014 mühürlü. Bölüm 11'de element izolasyonu bilinçli kırılır (mühürlü kara taşlar karışık dizilir).",
+        "files": [
+          "tas_kara_ates.png",
+          "tas_kara_su.png",
+          "tas_kara_toprak.png",
+          "tas_kara_hava.png"
+        ]
       }
+    ]
+  },
+  "visual_seals": {
+    "note": "Mühürlü görseller 06_GRAFIK/ altında kanon adlarıyla durur (canlı + stüdyo eş). Dosya adı: tas_<element>_<varyant>.png",
+    "M-014": [
+      "tas_kara_ates.png",
+      "tas_kara_su.png",
+      "tas_kara_toprak.png",
+      "tas_kara_hava.png",
+      "tas_muhur_elite.png",
+      "tas_ates_alev.png",
+      "tas_ates_koz.png",
+      "tas_ates_volkan.png",
+      "sahne_devam_ates.png",
+      "sahne_devam_su.png"
+    ],
+    "M-015": [
+      "tas_su_damla.png",
+      "tas_su_buz.png",
+      "tas_su_sis.png",
+      "tas_toprak_run.png",
+      "tas_toprak_kristal.png",
+      "tas_toprak_kaya.png",
+      "tas_hava_spiral.png",
+      "tas_hava_simsek.png",
+      "tas_hava_bulut.png"
+    ],
+    "M-016": [
+      "sahne_devam_toprak.png",
+      "sahne_devam_hava.png"
+    ],
+    "pending_M-017_aday": [
+      "tas_special_asa.png",
+      "tas_special_inci.png",
+      "tas_special_cekic.png",
+      "tas_special_yelpaze.png  (Patron onayı bekliyor)"
     ]
   }
 }
